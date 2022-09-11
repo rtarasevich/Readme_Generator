@@ -7,13 +7,13 @@ const questions = [
   {
     type: "input",
     name: "title",
-    message: "What is the title of your project?",
+    message: "What is the name of your project?",
   },
 
   {
     type: "input",
     name: "description",
-    message: "Please describe your project",
+    message: "Add a description of your project",
   },
   {
     type: "input",
@@ -32,7 +32,7 @@ const questions = [
     name: "contributors",
     message: "Please list your contributors",
   },
-  //create a list of licenses with badges
+  // licenses with badges
   {
     type: "list",
     name: "license",
