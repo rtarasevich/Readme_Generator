@@ -6,8 +6,9 @@
   - [Project description](#Description)
   - [Useage](#Usage)
   - [Installation](#Installation)
-  - [Contributors](#Contributors)
-  - [Questions](#Questions)
+  - [Credits](#Credits)
+  - [How to Contribute](#how-to-contribute)
+  - [Tests](#tests)
   - [License](#License)
 
   ## Description
@@ -15,10 +16,10 @@
 
   ## Usage
   This application is run in the terminal from the command line using node.js. You will find the generated readme file in the output folder.
-  To see how this application is used, please refer to this [video](https://drive.google.com/file/d/1HXIKOIWJ8HH43REazcBDxLJNeadzeluz/view).
+  
 
   ## Installation
-  First download the dependencies by running `npm install` then run the application using `npm start` or `node index.js` After you run the program and and answer the questions, your file will be saved in the [output folder](./output/) for your use.
+  First run `npm install` in the terminal, then initiate the application by using `npm start` or `node index.js`. After you run the program and answer the questions, your file will be saved in the [output folder](./output/) for your own use.
   
 
   ## Credits
@@ -27,7 +28,7 @@
   ## How to Contribute
 
   ## Tests
-  I welcome all, but none have been so far
+  I welcome all, but none have been done so far
 
   ## License
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
